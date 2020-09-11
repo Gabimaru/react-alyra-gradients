@@ -2,7 +2,7 @@ import React from "react";
 import GradientsList from "./components/GradientsList";
 import gradients from "./gradients";
 import GradientsHeader from "./components/GradientsHeader.js";
-import GradientsSelect from "./components/GradientsSelect.js";
+//import GradientsSelect from "./components/GradientsSelect.js";
 import Footer from "./components/Footer.js";
 
 function App() {
