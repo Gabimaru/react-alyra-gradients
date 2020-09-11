@@ -169,6 +169,6 @@ function allTags(list) {
   return listTagsUnique;
 }
 
-const uniqueTags = allTags(gradients);
+//const uniqueTags = allTags(gradients);
 
 export default gradients;
