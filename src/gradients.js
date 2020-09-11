@@ -151,7 +151,7 @@ const gradients = [
   },
 ];
 
-function allTags(list) {
+/*function allTags(list) {
   /* retourner la liste des tags uniques */
   let listTotal = [];
   for (let element of list) {
@@ -167,7 +167,7 @@ function allTags(list) {
     }
   });
   return listTagsUnique;
-}
+}*/
 
 //const uniqueTags = allTags(gradients);
 
