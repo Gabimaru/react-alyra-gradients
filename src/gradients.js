@@ -152,7 +152,7 @@ const gradients = [
 ];
 
 /*function allTags(list) {
-  /* retourner la liste des tags uniques */
+   retourner la liste des tags uniques
   let listTotal = [];
   for (let element of list) {
     if ("tags" in element) {
